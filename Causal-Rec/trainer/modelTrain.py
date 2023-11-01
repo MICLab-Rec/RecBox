@@ -38,6 +38,6 @@ def train_model(config, datagenerator, model_per=None):
     if not config.performance_rerun:
         plot_line(x=range(len(trainer.loss_all)), y=trainer.loss_all, label='train loss')
         plot_line(x=range(len(trainer.validate_all)), y=trainer.validate_all, label='validate loss')
-    if ((config.use_two_step or config.model_name == 'myvae') and config.hypertune) or config.plot_fig:
+    if ((config.use_two_step) and config.hypertune) or config.plot_fig:
         plot_causal_graph(trainer)
     return result
