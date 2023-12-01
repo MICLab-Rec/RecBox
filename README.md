@@ -4,7 +4,7 @@ MICRecBox是由吉林大学移动智能计算实验室数据挖掘组（Mobile I
 
 ## Accepted Papers
 
-![社交样式](https://img.shields.io/badge/News!-2023-yellow.svg?style=social)：    "Spatial-Temporal Interval Aware Individual Future Trajectory Prediction" IEEE Transactions on Knowledge and Data Engineering  2023 (Accepted)
+![社交样式](https://img.shields.io/badge/News!-2023-yellow.svg?style=social)：    ["Spatial-Temporal Interval Aware Individual Future Trajectory Prediction" IEEE Transactions on Knowledge and Data Engineering  2023 (TKDE)](https://ieeexplore.ieee.org/document/10330724)
 
 ![社交样式](https://img.shields.io/badge/News!-2022-yellow.svg?style=social)：    ["Spatial-Temporal Interval Aware Sequential POI Recommendation," 2022 IEEE 38th International Conference on Data Engineering (ICDE)](https://ieeexplore.ieee.org/document/9835452)
 
